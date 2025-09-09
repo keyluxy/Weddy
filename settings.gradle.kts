@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "Weddy"
 include(":app")
+include(":feature-auth")
+include(":core")
+include(":base")
+include(":feature-main")
