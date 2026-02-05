@@ -21,3 +21,14 @@ dependencyResolutionManagement {
 
 rootProject.name = "Weddy"
 include(":app")
+include(":core")
+include(":core:navigation")
+include(":features")
+include(":features:auth")
+include(":features:auth:api")
+include(":features:auth:impl")
+include(":features:main")
+include(":features:main:api")
+include(":features:main:impl")
+include(":features:contractors")
+include(":core:ui")

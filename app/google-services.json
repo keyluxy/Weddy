@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063541032174",
+    "project_id": "weddy-c47ed",
+    "storage_bucket": "weddy-c47ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063541032174:android:9efe66fa7a1bc1ef3ddfff",
+        "android_client_info": {
+          "package_name": "com.example.weddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCziwdj_ewCp5KvNprjiu4wGezle3BzZkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
